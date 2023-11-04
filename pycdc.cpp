@@ -9,6 +9,7 @@
 #  define PATHSEP '/'
 #endif
 
+
 int main(int argc, char* argv[])
 {
     const char* infile = nullptr;
